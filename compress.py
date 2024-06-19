@@ -44,7 +44,7 @@ if __name__ == "__main__":
     folder_to_compress = "./ch55x"
     
     # Nombre del archivo de salida con la fecha actual
-    output_filename = f"duino_version_{datetime.datetime.now().strftime('%Y-%m-%d')}.tar.bz2"
+    output_filename = f"Cocket_Nova_duino_version_{datetime.datetime.now().strftime('%Y-%m-%d')}.tar.bz2"
     
     # Comprimir la carpeta
     compress_folder(folder_to_compress, output_filename)

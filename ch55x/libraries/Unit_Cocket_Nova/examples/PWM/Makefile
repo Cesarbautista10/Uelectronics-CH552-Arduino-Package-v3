@@ -6,8 +6,8 @@
 # Type "make help" in the command line.
 # ===================================================================================
 # File Names
-SKETCH     = CH552-PWM.c
-TARGET     = CH552-PWM
+SKETCH     = PWM.c
+TARGET     = PWM
 INCLUDE    = src
 
 # Microcontroller Settings
