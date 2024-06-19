@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "neo.h": "c",
+        "config.h": "c"
+    }
+}
