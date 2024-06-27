@@ -10,7 +10,7 @@
             },
             "platforms" : [
                 {
-                    "name": "CH55x SketchLab",
+                    "name": "Cocket Nova",
                     "architecture": "mcs51",
                     "version": "0.0.1",
                     "category": "Unit Electronics",
@@ -60,6 +60,32 @@
                     "archiveFileName": "Cocket_Nova_duino_version_2024-06-19.tar.bz2",
                     "checksum": "SHA-256:cf6358f3b724bdc90ba755a48ee93c484066d8df50d4e2d0ed1ca76ec12e6c85",
                     "size": "154544"
+                },
+                { 
+                    "name": "Cocket Nova",
+                    "architecture": "mcs51",
+                    "version": "0.0.3",
+                    "category": "Unit Electronics",
+                    "boards": [
+                        {"name": "CH552 Board"}
+                       
+                    ],
+                    "toolsDependencies": [
+                        {
+                            "name": "MCS51Tools",
+                            "version": "2023.10.10",
+                            "packager": "Uelectronics"
+                        },
+                        {
+                            "name": "sdcc",
+                            "version": "build.13407_4",
+                            "packager": "Uelectronics"
+                        }
+                    ],
+                    "url": "https://github.com/Cesarbautista10/Uelectronics-CH552-Arduino-Package-v3/releases/download/v0.0.3/Cocket_Nova_duino_version_2024-06-27.tar.bz2",
+                    "archiveFileName": "Cocket_Nova_duino_version_2024-06-27.tar.bz2",
+                    "checksum": "SHA-256:d5046d63aff63df8980561b76788a9fa32ff07a4bf7f01ab0a12eab042360859",
+                    "size": "149816"
                 }
             ],
 

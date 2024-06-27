@@ -1,5 +1,5 @@
-Nombre del archivo comprimido: Cocket_Nova_duino_version_2024-06-19.tar.bz2
+Nombre del archivo comprimido: Cocket_Nova_duino_version_2024-06-27.tar.bz2
 Datos del archivo comprimido:
-Tamaño del archivo: 154544 bytes
+Tamaño del archivo: 149816 bytes
 Tipo de archivo: bz2
-SHA256 del archivo: cf6358f3b724bdc90ba755a48ee93c484066d8df50d4e2d0ed1ca76ec12e6c85
+SHA256 del archivo: d5046d63aff63df8980561b76788a9fa32ff07a4bf7f01ab0a12eab042360859
